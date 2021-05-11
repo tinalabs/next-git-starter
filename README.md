@@ -1,3 +1,5 @@
+This is a clone of NextJS's [blog starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter). It has been cloned to this repo to make it easier to fork & import to Tina Cloud.
+
 # A statically generated blog example using Next.js and Markdown
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
