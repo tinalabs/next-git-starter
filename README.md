@@ -1,4 +1,7 @@
-This is a clone of NextJS's [blog starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter). It has been cloned to this repo to make it easier to fork & import to Tina Cloud.
+**A clone of the Next.js [blog starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) to make it easier to fork & import to [Tina Cloud](https://tina.io/cloud/)**. 🦙
+
+![next-blog-starter-tina-cloud](https://user-images.githubusercontent.com/103008/118156607-d83d2500-b419-11eb-9aa9-59d531a26987.png)
+
 
 # A statically generated blog example using Next.js and Markdown
 
@@ -17,22 +20,6 @@ To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) a
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
-
-### Related examples
-
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
 
 ## How to use
 
